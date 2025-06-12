@@ -1,5 +1,20 @@
 {
-  "users": [],
+  "users": [
+    {
+      "phoneNumber": "+221 76 617 82 84",
+      "username": "Khalilouh06",
+      "lastSeen": "2025-06-12T02:09:12.362Z",
+      "isOnline": false,
+      "id": 1
+    },
+    {
+      "phoneNumber": "+221 76 617 82 84",
+      "username": "Khalilouh06",
+      "lastSeen": "2025-06-12T02:09:47.269Z",
+      "isOnline": true,
+      "id": 2
+    }
+  ],
   "contacts": [],
   "messages": [],
   "groups": [],
