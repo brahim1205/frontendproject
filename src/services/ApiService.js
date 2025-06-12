@@ -1,6 +1,6 @@
 export class ApiService {
   constructor() {
-    this.baseUrl = 'http://localhost:3001'
+    this.baseUrl = 'https://backend-n0fo.onrender.com'
   }
 
   // Users
@@ -192,3 +192,6 @@ export class ApiService {
     }
   }
 }
+
+
+ 

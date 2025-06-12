@@ -8,15 +8,169 @@
       "id": 1
     },
     {
-      "phoneNumber": "+221 76 617 82 84",
-      "username": "Khalilouh06",
-      "lastSeen": "2025-06-12T02:09:47.269Z",
+      "phoneNumber": "+221 77 123 45 67",
+      "username": "Khalil",
+      "lastSeen": "2025-06-12T02:30:21.269Z",
       "isOnline": true,
       "id": 2
+    },
+    {
+      "phoneNumber": "77 562 63 63",
+      "username": "BACHIR DIAME",
+      "lastSeen": "2025-06-12T02:53:04.580Z",
+      "isOnline": true,
+      "id": 3
+    },
+    {
+      "phoneNumber": "+221 76 617 82 84",
+      "username": "Khalilouh06",
+      "lastSeen": "2025-06-12T08:35:00.295Z",
+      "isOnline": true,
+      "id": 4
+    },
+    {
+      "phoneNumber": "+221 76 617 82 84",
+      "username": "Khalilouh06",
+      "lastSeen": "2025-06-12T08:35:00.295Z",
+      "isOnline": false,
+      "id": 5
+    },
+    {
+      "phoneNumber": "+221 77 888 99 00",
+      "username": "Fatou Ndiaye",
+      "lastSeen": "2025-06-12T04:00:00.000Z",
+      "isOnline": false,
+      "id": 6
+    },
+    {
+      "phoneNumber": "70 111 22 33",
+      "username": "Moussa Sow",
+      "lastSeen": "2025-06-12T04:05:00.000Z",
+      "isOnline": true,
+      "id": 7
+    },
+    {
+      "phoneNumber": "+221 76 617 82 84",
+      "username": "Khalilouh06",
+      "lastSeen": "2025-06-12T08:51:00.295Z",
+      "isOnline": true,
+      "id": 8
+    },
+    {
+      "phoneNumber": "+221 76 617 82 84",
+      "username": "Khalilouh06",
+      "lastSeen": "2025-06-12T08:44:31.211Z",
+      "isOnline": false,
+      "id": 9
+    },
+    {
+      "phoneNumber": "+221 76 617 82 84",
+      "username": "Khalilouh06",
+      "lastSeen": "2025-06-12T08:46:01.192Z",
+      "isOnline": false,
+      "id": 10
     }
   ],
-  "contacts": [],
-  "messages": [],
-  "groups": [],
+  "contacts": [
+    {
+      "userId": 3,
+      "contactUserId": 3,
+      "name": "BACHIR DIAME",
+      "phoneNumber": "77 562 63 63",
+      "addedAt": "2025-06-12T02:29:12.311Z",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "contactUserId": 6,
+      "name": "Fatou Ndiaye",
+      "phoneNumber": "+221 77 888 99 00",
+      "addedAt": "2025-06-12T04:10:00.000Z",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "contactUserId": 7,
+      "name": "Moussa Sow",
+      "phoneNumber": "70 111 22 33",
+      "addedAt": "2025-06-12T04:12:00.000Z",
+      "id": 3
+    },
+    {
+      "userId": 6,
+      "contactUserId": 1,
+      "name": "Khalilouh06",
+      "phoneNumber": "+221 76 617 82 84",
+      "addedAt": "2025-06-12T04:15:00.000Z",
+      "id": 4
+    }
+  ],
+  "messages": [
+    {
+      "chatId": "contact_3_3",
+      "senderId": 3,
+      "senderName": "Khalilouh06",
+      "type": "text",
+      "content": "salut boy",
+      "timestamp": "2025-06-12T02:29:39.193Z",
+      "status": "read",
+      "id": 1
+    },
+    {
+      "chatId": "contact_3_3",
+      "senderId": 3,
+      "senderName": "Khalilouh06",
+      "type": "audio",
+      "content": "data:audio/wav;base64,simulated-audio-data",
+      "timestamp": "2025-06-12T02:29:49.763Z",
+      "status": "delivered",
+      "id": 2
+    },
+    {
+      "chatId": "contact_3_3",
+      "senderId": 3,
+      "senderName": "Khalilouh06",
+      "type": "audio",
+      "content": "data:audio/wav;base64,simulated-audio-data",
+      "timestamp": "2025-06-12T02:29:53.171Z",
+      "status": "delivered",
+      "id": 3
+    },
+    {
+      "chatId": "group_1",
+      "senderId": 3,
+      "senderName": "Khalilouh06",
+      "type": "text",
+      "content": "salut",
+      "timestamp": "2025-06-12T02:38:02.854Z",
+      "status": "delivered",
+      "id": 4
+    },
+    {
+      "chatId": "group_1",
+      "senderId": 3,
+      "senderName": "Khalilouh06",
+      "type": "image",
+      "content": "blob:http://localhost:5174/97589fe4-50bf-4a3e-83d6-ed50b96a8f0e",
+      "fileName": "n.jpeg",
+      "fileSize": "53.12 KB",
+      "timestamp": "2025-06-12T02:38:19.709Z",
+      "status": "sent",
+      "id": 5
+    }
+  ],
+  "groups": [
+    {
+      "name": "Full-stack dev",
+      "description": "",
+      "members": [
+        3,
+        3
+      ],
+      "createdBy": 3,
+      "createdAt": "2025-06-12T02:37:54.339Z",
+      "id": 1
+    }
+  ],
   "sessions": []
 }
