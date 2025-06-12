@@ -52,7 +52,7 @@
     {
       "phoneNumber": "+221 76 617 82 84",
       "username": "Khalilouh06",
-      "lastSeen": "2025-06-12T08:52:00.295Z",
+      "lastSeen": "2025-06-12T08:57:00.295Z",
       "isOnline": true,
       "id": 8
     },
@@ -69,6 +69,13 @@
       "lastSeen": "2025-06-12T08:46:01.192Z",
       "isOnline": false,
       "id": 10
+    },
+    {
+      "phoneNumber": "+221 76 617 82 84",
+      "username": "Khalilouh06",
+      "lastSeen": "2025-06-12T08:57:00.295Z",
+      "isOnline": true,
+      "id": 11
     }
   ],
   "contacts": [
