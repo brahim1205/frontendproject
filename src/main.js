@@ -2,7 +2,6 @@ import './style.css'
 import { AuthManager } from './auth/AuthManager.js'
 import { ChatManager } from './chat/ChatManager.js'
 import { ApiService } from './services/ApiService.js'
-import { Utils } from './utils/Utils.js'
 
 class WhatsAppClone {
   constructor() {
