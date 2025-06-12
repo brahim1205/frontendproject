@@ -165,6 +165,8 @@ export class ContactManager {
 
     // Auto-hide after 3 seconds for non-success messages
     if (type !== "success") {
+      console.log("cest bon");
+      
       setTimeout(() => {
         notificationArea.classList.add("hidden");
       }, 3000);
